@@ -6,6 +6,6 @@ Prime Finish operates across complex sectors, from structural steelwork to ship 
 
 ## Preview
 
-![Prime_Finish_showcase](src/Prime%20Finish%20showcase.png)
+![Prime_Finish_showcase](Prime%20Finish%20showcase.png)
 
-![Prime_Finish_hero](src/Prime%20Finish%20hero.png)
+![Prime_Finish_hero](Prime%20Finish%20hero.png)
